@@ -40,7 +40,9 @@ haskell as a script language (runhaskell is included in Haskell bundle)
 haskell turtle lib : invoke bash command 
 
 #### Editor written in haskell
-Yi
+
+Yi https://github.com/yi-editor/yi
+    *auto complete https://github.com/yi-editor/yi/issues/779
 
 #### emacs
 
