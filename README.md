@@ -42,6 +42,13 @@ haskell turtle lib : invoke bash command
 #### Editor written in haskell
 Yi
 
+#### emacs
+
+C-x 5 2
+Create a new frame(window) (make-frame-command).
+
+
+
 ### distribute
 
 https://en.wikibooks.org/wiki/Haskell/Packaging
