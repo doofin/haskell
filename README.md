@@ -1,14 +1,14 @@
 # Toward a pure conceptual world
 
-### Hierarchys of prevalent abstraction --typeclasses
+## Hierarchys of prevalent abstraction --typeclasses
 
 https://wiki.haskell.org/Typeclassopedia
 
-### Visual graphical functional language
+## Visual graphical functional language
 
 http://www.researchgate.net/publication/242377072_A_Visual_Programming_Environment_for_Functional_Languages
 
-### Template Haskell
+## Template Haskell
 
 [| ... |], or [e| ... |], where the "..." is an expression; the quotation has type Q Exp.
 
@@ -24,7 +24,11 @@ https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/template-haskell
 
 https://wiki.haskell.org/Template_Haskell
 
-### ghc(Haskell compiler) structure introduction
+## FRP
+
+https://github.com/HeinrichApfelmus/reactive-banana
+
+## ghc(Haskell compiler) structure introduction
 
 http://www.aosabook.org/en/ghc.html
 
@@ -39,7 +43,7 @@ ghc api : https://wiki.haskell.org/GHC/As_a_library
 ghc haddock dir: 
 file:///usr/local/haskell/ghc-7.8.3-x86_64/share/doc/ghc/html/libraries/ghc-7.8.3/index.html
 
-### development environment
+## development environment
 
 #### as script
 haskell as a script language (runhaskell is included in Haskell bundle)
@@ -66,6 +70,6 @@ Create a new frame(window) (make-frame-command).
 
 
 
-### distribute
+## distribute
 
 https://en.wikibooks.org/wiki/Haskell/Packaging
