@@ -28,6 +28,17 @@ https://wiki.haskell.org/Template_Haskell
 
 http://www.aosabook.org/en/ghc.html
 
+https://ghc.haskell.org/trac/ghc/wiki/Commentary/Compiler
+
+https://ghc.haskell.org/trac/ghc/wiki/Commentary
+
+systemF : http://git.haskell.org/ghc.git/blob/refs/heads/master:/docs/core-spec/core-spec.pdf
+
+ghc api : https://wiki.haskell.org/GHC/As_a_library
+
+ghc haddock dir: 
+file:///usr/local/haskell/ghc-7.8.3-x86_64/share/doc/ghc/html/libraries/ghc-7.8.3/index.html
+
 ### development environment
 
 #### as script
@@ -38,6 +49,10 @@ haskell as a script language (runhaskell is included in Haskell bundle)
     main = putStr "hello"
 
 haskell turtle lib : invoke bash command 
+
+IO:
+
+https://hackage.haskell.org/package/filemanip-0.3.6.3/docs/System-FilePath-Find.html
 
 #### Editor written in haskell
 
