@@ -1,5 +1,15 @@
 # Toward a pure conceptual world
 
+## CT
+
+http://www.j-paine.org/dobbs/why_be_interested_in_categories.html
+
+http://www.amazon.com/The-Topos-Music-Geometric-Performance/dp/3764357312
+
+a categorical manifesto
+
+http://mathoverflow.net/questions/154839/what-are-your-favorite-concrete-examples-of-limits-or-colimits-that-you-would-co
+
 ## Hierarchys of prevalent abstraction --typeclasses
 
 https://wiki.haskell.org/Typeclassopedia
