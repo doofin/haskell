@@ -1,7 +1,11 @@
 # Toward a pure conceptual world
 
-## CT
+## Theory
+### other
+a calculus for lazy functional programming based on recursion operators:
+http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf
 
+###CT
 http://www.j-paine.org/dobbs/why_be_interested_in_categories.html
 
 http://www.amazon.com/The-Topos-Music-Geometric-Performance/dp/3764357312
