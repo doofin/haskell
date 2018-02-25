@@ -5,7 +5,7 @@
 a calculus for lazy functional programming based on recursion operators:
 http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf
 
-###CT
+###Category theory
 http://www.j-paine.org/dobbs/why_be_interested_in_categories.html
 
 http://www.amazon.com/The-Topos-Music-Geometric-Performance/dp/3764357312
@@ -14,7 +14,7 @@ a categorical manifesto
 
 http://mathoverflow.net/questions/154839/what-are-your-favorite-concrete-examples-of-limits-or-colimits-that-you-would-co
 
-## Hierarchys of prevalent abstraction --typeclasses
+## adhoc-polymorphism --typeclasses
 
 https://wiki.haskell.org/Typeclassopedia
 
@@ -22,7 +22,7 @@ https://wiki.haskell.org/Typeclassopedia
 
 http://www.researchgate.net/publication/242377072_A_Visual_Programming_Environment_for_Functional_Languages
 
-## Template Haskell
+##  Template Haskell : Metaprogramming
 
 [| ... |], or [e| ... |], where the "..." is an expression; the quotation has type Q Exp.
 
@@ -38,11 +38,11 @@ https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/template-haskell
 
 https://wiki.haskell.org/Template_Haskell
 
-## FRP
+## FRP : GUI and async
 
 https://github.com/HeinrichApfelmus/reactive-banana
 
-## ghc(Haskell compiler) structure introduction
+## ghc (Haskell compiler) internals 
 
 http://www.aosabook.org/en/ghc.html
 
@@ -58,7 +58,7 @@ ghc haddock dir:
 file:///usr/local/haskell/ghc-7.8.3-x86_64/share/doc/ghc/html/libraries/ghc-7.8.3/index.html
 
 ## development environment
-
+### haskell-ide-engine : most complete up to 2017
 #### as script
 haskell as a script language (runhaskell is included in Haskell bundle)
 
